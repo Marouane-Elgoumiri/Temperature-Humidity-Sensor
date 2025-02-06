@@ -18,7 +18,7 @@
 - Database (mariadb)
 - Web Server (Apache2)
 - DNS Server (bind9) -> http://kelompok5.iot
-- dan FTP server (proftpd) untuk upload file web ke server
+- FTP server (proftpd) upload file to server
 13. [Ngrok](https://ngrok.com/).
 -(url web)
 
