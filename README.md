@@ -13,7 +13,7 @@
 9. Web Framework [Codeigniter](https://codeigniter.com/)
 10. CSS Framework [Bootstrap](https://getbootstrap.com/)
 11. Access Point ([TP-LINK-MR3020](https://www.tp-link.com/id/home-networking/3g-4g-router/tl-mr3020/))
-12. Untuk Server Menggunakan server virtual yang juga berfungsi sebagai router berikut spesifikasinya :
+12. Server :
 - [Debian 9 Stretch](http://kambing.ui.ac.id/iso/debian/9.7.0/amd64/iso-cd/)
 - Database (mariadb)
 - Web Server (Apache2)
